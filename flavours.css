@@ -162,7 +162,7 @@
 
         .product-image img {
             height: 200px;
-            width: auto;
+            width: 400px;
             object-fit: cover;
         }
 
