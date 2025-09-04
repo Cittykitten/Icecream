@@ -160,6 +160,12 @@
             overflow: hidden;
         }
 
+        .product-image img {
+            height: 200px;
+            width: auto;
+            object-fit: cover;
+        }
+
         .product-image::before {
             content: "";
             position: absolute;
